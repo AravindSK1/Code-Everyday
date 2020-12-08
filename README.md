@@ -2,7 +2,7 @@
 
 A repo to start coding everyday for next 1000 days (hopefully!)
 
-Currently completed 3 days!
+Currently completed 5 days!
 
 Easy			Medium		Hard
 
