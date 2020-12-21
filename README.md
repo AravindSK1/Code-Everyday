@@ -6,4 +6,4 @@ Currently completed 6 days!
 
 Easy			Medium		Hard
 
-4			4			0
+5			4			0
