@@ -1,9 +1,9 @@
 # Code-Everyday
 
-A repo to start coding everyday for next 1000 days (hopefully!)
+A repo to start coding everyday for next 100 days (hopefully!)
 
-Currently completed 6 days!
+Currently completed 12 days!
 
 Easy			Medium		Hard
 
-5			4			0
+5			7			0
