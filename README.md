@@ -2,8 +2,8 @@
 
 A repo to start coding everyday for next 100 days (hopefully!)
 
-Currently completed 12 days!
+Currently completed 19 days!
 
 Easy			Medium		Hard
 
-5			7			0
+12			7			0
